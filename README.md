@@ -1,39 +1,102 @@
-Open [http://localhost:3000](http://localhost:3000) with your browser to access the application.
-## Features
-1. **Task Management**
-   - Create, edit, and delete tasks
-   - Set priority levels (low, medium, high)
-   - Categorize tasks (task, event, note)
-   - Track completion status
-2. **Chat Bot Assistant**
-   - Get task suggestions
-   - Receive reminders
-   - Ask for task organization help
-3. **Profile Management**
-   - Customize user profile
-   - Track task history
-   - Manage preferences
-## Technology Stack
-- Frontend: Next.js 15.3.3
-- UI Components: Material UI 7.1.2
-- Styling: Tailwind CSS
-- State Management: Apollo Client
-- API: GraphQL
-- Authentication: NextAuth.js
-## Usage
-1. **Creating Tasks**
-   - Click the "+" button in the bottom right corner
-   - Fill in the task details (title, description, priority, etc.)
-   - Click "Add Todo" to create the task
-2. **Managing Tasks**
-   - Check the checkbox to mark tasks as complete
-   - Click the settings icon to edit or delete tasks
-   - Use filters to sort and organize tasks
-3. **Using the Bot Assistant**
-   - Click the chat icon in the bottom right corner
-   - Type your question or request
-   - Receive AI-powered suggestions and assistance
-## Connect With Us
-- [GitHub](https://github.com/WladislawPitsukha)
-- [LinkedIn](https://linkedin.com/in/wladislaw-pitsukha-17050723a/)
-- [Instagram](https://instagram.com/merifri_wlad)
+## 🚀 Project Vision
+
+Todo Avatar is evolving from a frontend application into a full-stack productivity platform.
+
+The current version focuses on building a modern frontend using Next.js, GraphQL, and Apollo Client. The next stage of development is to build a dedicated backend in **Python**, allowing me to practice backend architecture, API development, authentication, and database design.
+
+The goal is to combine my frontend experience with backend development and create a production-like application.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+| Technology | Purpose |
+|------------|---------|
+| Next.js 15 | React framework with App Router |
+| React 19 | UI library |
+| TypeScript | Type-safe development |
+| Tailwind CSS | Utility-first styling |
+| Material UI v7 | UI components |
+| Apollo Client | GraphQL client |
+| GraphQL | API communication |
+| NextAuth.js | Authentication |
+
+### Backend (Planned)
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Main backend language |
+| FastAPI | REST API development |
+| SQLAlchemy | ORM |
+| PostgreSQL | Database |
+| Pydantic | Data validation |
+| Alembic | Database migrations |
+| JWT | Authentication |
+| Docker | Containerization |
+
+### Development Tools
+
+- Git & GitHub
+- ESLint
+- Prettier
+- npm
+- VS Code
+- Postman
+- GraphQL Playground
+
+---
+
+## 🎯 Learning Goals
+
+This project helps me practice both frontend and backend development.
+
+### Frontend
+
+- Next.js App Router
+- React
+- TypeScript
+- Apollo Client
+- GraphQL
+- Authentication
+- Tailwind CSS
+- Material UI
+- Component architecture
+- State management
+
+### Backend (Current Learning)
+
+I'm currently studying Python to extend this project into a complete full-stack application.
+
+The backend will include:
+
+- Python
+- FastAPI
+- REST APIs
+- Authentication with JWT
+- PostgreSQL
+- SQLAlchemy
+- Data validation with Pydantic
+- Database migrations
+- Docker
+- API testing
+- Backend architecture
+
+---
+
+## 🔮 Future Roadmap
+
+- ✅ Frontend application
+- ✅ Authentication
+- ✅ GraphQL integration
+- ✅ AI chatbot interface
+- 🚧 Python backend
+- 🚧 PostgreSQL database
+- 🚧 FastAPI REST API
+- 🚧 Docker support
+- 🚧 File uploads
+- 🚧 Notifications
+- 🚧 Calendar integration
+- 🚧 Dashboard analytics
+- 🚧 Unit & integration tests
